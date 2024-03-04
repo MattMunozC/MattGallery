@@ -139,14 +139,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
-  photo_manager:
-    dependency: "direct main"
-    description:
-      name: photo_manager
-      sha256: df594f989f0c31cdb3ed48f3d49cb9ffadf11cc3700d2c3460b1912c93432621
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.0"
   photo_view:
     dependency: "direct main"
     description:
@@ -226,4 +218,4 @@ packages:
     version: "13.0.0"
 sdks:
   dart: ">=3.3.0 <4.0.0"
-  flutter: ">=2.2.0"
+  flutter: ">=1.6.0"
